@@ -1,0 +1,42 @@
+﻿body {
+    background-color: darkgray;
+}
+
+.alert{
+    color:red;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+    background: #006669;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    text-align: center;
+}
+
+.btn:hover {
+    background: #005255;
+}
+
+.text_input {
+    padding: 0.7rem 1rem;
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+    outline: none;
+    color: #444;
+    line-height: 0.8rem;
+    font-size: 0.8em;
+}
+
+.text_area{
+    width: 550px;
+    height: 300px;
+    padding: 0.7rem 1rem;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+    outline: none;
+    color: #444;
+}
